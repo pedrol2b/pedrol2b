@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/107975184/197287569-36311134-4a39-4f1c-8d78-a34aa04efc5a.png" />
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/107975184/194691122-1f09ba3d-ed17-4edc-9437-8af6771706fc.gif" />
 <h1 align="left">Hi, <img src="https://user-images.githubusercontent.com/107975184/194691142-ce507ff7-4e14-461f-9ae2-2937c6befcc7.gif" height="30px" /> I'm Pedro Bueno</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pedrol2b&color=grey&style=flat-square" alt="Profile views" /></p>
 
