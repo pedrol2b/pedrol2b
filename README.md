@@ -15,7 +15,7 @@ _Currently studying Software Engineering at UTFPR, passionate about problem solv
 <a href="https://www.linkedin.com/in/pedrol2b/" target="_blank"><img src="https://img.shields.io/badge/Pedro%20Bueno-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrol2b/" height="23" target="_blank" /></a><br>
 <a href="mailto:pedrolbb.e@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pedrolbb.e@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:pedrolbb.e@gmail.com" height="23" target="_blank" /></a><br>
 
-| ![Pedro Bueno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pedrol2b&theme=xcode&bg_color=151515&point=6ce286) |
+| ![Pedro Bueno's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrol2b&theme=xcode&bg_color=151515&point=6ce286) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | ![Pedro Bueno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrol2b&show_icons=true&theme=dark) | ![Pedro Bueno's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrol2b&theme=dark) |
