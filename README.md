@@ -1,8 +1,8 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/107975184/199703548-52e02df5-fb9e-4a25-80ae-96da2213d429.png" />
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/107975184/220732368-1e1d33ca-b656-4bb0-9566-8d1a3b80934b.png" />
 <h1 align="left">Hi, <img src="https://user-images.githubusercontent.com/107975184/194691142-ce507ff7-4e14-461f-9ae2-2937c6befcc7.gif" height="30px" /> I'm Pedro Bueno</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pedrol2b&color=grey&style=flat-square" alt="Profile views" /></p>
 
-**About me**
+**About**
 
 _Currently studying Software Engineering at Federal University Technology of Paraná, passionate about problem solving and learning new technologies, enthusiast and Fullstack developer._
 
@@ -15,7 +15,7 @@ _Currently studying Software Engineering at Federal University Technology of Par
 | ![Pedro Bueno's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrol2b&theme=xcode&bg_color=151515&point=6ce286) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 
-| ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=151515&tc=fff&ic=6adf84&bc=666666) | ![Pedro Bueno's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrol2b&theme=dark) |
+| ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=151515&tc=fff&ic=6adf84&bc=ffffff) | ![Pedro Bueno's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrol2b&theme=dark) |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,tailwind,styledcomponents,nodejs,php,mongodb,mysql,nestjs,expressjs,figma)](https://skillicons.dev) |
