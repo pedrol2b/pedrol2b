@@ -7,10 +7,10 @@
 
 I am a Software Engineer, currently working at [**@CERTTUS-Ltda**](https://certtus.com.br/) as a Mobile Developer and studying Software Engineering at the Federal University Technology of Paraná.
 
-Feel free to reach me on Discord or Telegram.
+Feel free to reach me on Discord.
 
 <img target="_blank" src="https://img.shields.io/badge/pedrol2b-444444?style=flat-square&logo=discord&logoColor=FFFFFF" height="23" /></br>
-<a target="_blank" href="https://t.me/pedrol2b"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-121212?style=flat-square&logo=telegram&logoColor=FFFFFF&link=https://t.me/pedrol2b" height="23" /></a>
+<!-- <a target="_blank" href="https://t.me/pedrol2b"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-121212?style=flat-square&logo=telegram&logoColor=FFFFFF&link=https://t.me/pedrol2b" height="23" /></a> -->
 
 | ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=121212&tc=9e9e9e&ic=D1C4E9&bc=121212) | ![Pedro Bueno's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrol2b&hide_border=true&border_radius=0&exclude_days=Sun%2CSat&background=121212&border=121212&stroke=212121&ring=7E57C2&fire=7E57C2&currStreakNum=673AB7&sideNums=9E9E9E&currStreakLabel=D1C4E9&sideLabels=9e9e9e&dates=616161&excludeDaysLabel=424242) |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
