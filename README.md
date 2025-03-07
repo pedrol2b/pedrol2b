@@ -5,9 +5,9 @@
 <a target="_blank" href="mailto:pedrolbb.e@gmail.com"><img target="_blank" src="https://img.shields.io/badge/pedrolbb.e@gmail.com-121212?style=flat-square&logo=gmail&logoColor=FFFFFF&link=mailto:pedrolbb.e@gmail.com" height="23" /></a>
 </p>
 
-I am a Software Engineer, currently working at [**@CERTTUS-Ltda**](https://certtus.com.br/) as a Mobile Developer and studying Software Engineering at the Federal University Technology of Paraná.
+I am a Full Stack Software Engineer with a focus on mobile development, currently pursuing my degree in Software Engineering at the [**@Federal University Technology of Paraná**](https://www.utfpr.edu.br/).
 
-Feel free to reach me on Discord.
+Feel free to reach out to me on Discord!
 
 <img target="_blank" src="https://img.shields.io/badge/pedrol2b-444444?style=flat-square&logo=discord&logoColor=FFFFFF" height="23" /></br>
 <!-- <a target="_blank" href="https://t.me/pedrol2b"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-121212?style=flat-square&logo=telegram&logoColor=FFFFFF&link=https://t.me/pedrol2b" height="23" /></a> -->
