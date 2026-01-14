@@ -12,7 +12,7 @@ Feel free to reach out to me on Discord!
 <img target="_blank" src="https://img.shields.io/badge/pedrol2b-444444?style=flat-square&logo=discord&logoColor=FFFFFF" height="23" /></br>
 <!-- <a target="_blank" href="https://t.me/pedrol2b"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-121212?style=flat-square&logo=telegram&logoColor=FFFFFF&link=https://t.me/pedrol2b" height="23" /></a> -->
 
-| ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=121212&tc=9e9e9e&ic=D1C4E9&bc=121212) | ![Pedro Bueno's GitHub Streak](https://streak-stats.demolab.com/?user=pedrol2b&hide_border=true&border_radius=0&short_numbers=true&exclude_days=Sun%2CSat&background=121212&border=121212&stroke=212121&ring=7E57C2&fire=7E57C2&currStreakNum=673AB7&sideNums=9E9E9E&currStreakLabel=D1C4E9&sideLabels=9E9E9E&excludeDaysLabel=424242) |
+| ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=222222&tc=f7f1ff&ic=fce566&bc=222222) | ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=222222&quote_color=f7f1ff&author_color=f7f1ff&accent_color=fce566&border_color=222222) |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 
 | ![Pedro Bueno's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrol2b&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0) |
