@@ -5,7 +5,9 @@
 <a target="_blank" href="mailto:pedrolbb.e@gmail.com"><img target="_blank" src="https://img.shields.io/badge/pedrolbb.e@gmail.com-131313?style=flat-square&logo=gmail&logoColor=f7f1ff&link=mailto:pedrolbb.e@gmail.com" height="23" /></a>
 </p>
 
-I am a Full Stack Software Engineer with a focus on mobile development, currently pursuing my degree in Software Engineering at the [**@Federal University Technology of Paraná**](https://www.utfpr.edu.br/).
+Mobile Software Engineer with a full stack background. I build for the entire mobile ecosystem — iOS, Android, and cross-platform — and actively contribute to the React Native ecosystem and open source community.
+
+B.S. Software Engineering at [**@Federal University Technology of Paraná**](https://www.utfpr.edu.br/).
 
 Feel free to reach out to me on Discord!
 
