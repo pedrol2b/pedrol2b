@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer with a focus on mobile development, currentl
 
 Feel free to reach out to me on Discord!
 
-<img target="_blank" src="https://img.shields.io/badge/pedrol2b-363537?style=flat-square&logo=discord&logoColor=f7f1ff" height="23" /></br>
+<a target="_blank" href="https://discordapp.com/users/1005766868990177321"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-131313?style=flat-square&logo=discord&logoColor=f7f1ff&link=https://discordapp.com/users/1005766868990177321" height="23" /></a></br>
 <!-- <a target="_blank" href="https://t.me/pedrol2b"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-131313?style=flat-square&logo=telegram&logoColor=f7f1ff&link=https://t.me/pedrol2b" height="23" /></a> -->
 
 | ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=131313&tc=f7f1ff&ic=fce566&bc=131313) | ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=131313&quote_color=f7f1ff&author_color=f7f1ff&accent_color=fce566&border_color=131313) |
