@@ -5,7 +5,7 @@
 <a target="_blank" href="mailto:pedrolbb.e@gmail.com"><img target="_blank" src="https://img.shields.io/badge/pedrolbb.e@gmail.com-131313?style=flat-square&logo=gmail&logoColor=f7f1ff&link=mailto:pedrolbb.e@gmail.com" height="23" /></a>
 </p>
 
-Mobile Software Engineer with a full stack background. I build for the entire mobile ecosystem — iOS, Android, and cross-platform — and actively contribute to the React Native ecosystem and open source community.
+Mobile Software Engineer building reliable Android, iOS, and React Native applications. Open-source creator and maintainer focused on mobile architecture, performance, and developer tooling.
 
 B.S. Software Engineering at [**@Federal University Technology of Paraná**](https://www.utfpr.edu.br/).
 
