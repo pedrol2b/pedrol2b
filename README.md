@@ -5,20 +5,21 @@
 <a target="_blank" href="mailto:pedrolbb.e@gmail.com"><img target="_blank" src="https://img.shields.io/badge/pedrolbb.e@gmail.com-131313?style=flat-square&logo=gmail&logoColor=f7f1ff&link=mailto:pedrolbb.e@gmail.com" height="23" /></a>
 </p>
 
-Mobile Software Engineer building reliable Android, iOS, and React Native applications. Open-source creator and maintainer focused on mobile architecture, performance, and developer tooling.
+Mobile Software Engineer with native Android and iOS foundations and cross-platform experience. Open source creator and maintainer focused on mobile architecture, performance, reliability, and developer tooling.
 
 B.S. Software Engineering at [**@Federal University Technology of Paraná**](https://www.utfpr.edu.br/).
 
 Feel free to reach out to me on Discord!
 
 <a target="_blank" href="https://discordapp.com/users/1005766868990177321"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-131313?style=flat-square&logo=discord&logoColor=f7f1ff&link=https://discordapp.com/users/1005766868990177321" height="23" /></a></br>
+
 <!-- <a target="_blank" href="https://t.me/pedrol2b"><img target="_blank" src="https://img.shields.io/badge/pedrol2b-131313?style=flat-square&logo=telegram&logoColor=f7f1ff&link=https://t.me/pedrol2b" height="23" /></a> -->
 
 | ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=131313&tc=f7f1ff&ic=fce566&bc=131313) | ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=131313&quote_color=f7f1ff&author_color=f7f1ff&accent_color=fce566&border_color=131313) |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | ![Pedro Bueno's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrol2b&bg_color=131313&color=f7f1ff&line=fce566&point=fce566&title_color=f7f1ff&area_color=fce566&hide_border=true&area=false&radius=0) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=pedrol2b&color=363537&style=flat-square&abbreviated=true" alt="Profile views" />
