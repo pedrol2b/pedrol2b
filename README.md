@@ -18,9 +18,14 @@ Feel free to reach out to me on Discord!
 | ![Pedro Bueno's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrol2b&cc=131313&tc=f7f1ff&ic=fce566&bc=131313) | ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=131313&quote_color=f7f1ff&author_color=f7f1ff&accent_color=fce566&border_color=131313) |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-| ![Pedro Bueno's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrol2b&bg_color=131313&color=f7f1ff&line=fce566&point=fce566&title_color=f7f1ff&area_color=fce566&hide_border=true&area=false&radius=0) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="assets/activity-graph.svg" alt="Pedro Bueno's GitHub Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=pedrol2b&color=363537&style=flat-square&abbreviated=true" alt="Profile views" />
+<a href="https://hits.sh/github.com/pedrol2b/"><img src="https://hits.sh/github.com/pedrol2b.svg?style=flat-square&amp;label=Profile%20views&amp;color=363537&amp;extraCount=5401" alt="Profile views" /></a>
 </p>

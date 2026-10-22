@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary SVG output
+assets/*.svg.tmp

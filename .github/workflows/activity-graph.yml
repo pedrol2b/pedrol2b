@@ -1,0 +1,52 @@
+name: Update activity graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - scripts/activity_graph.py
+      - scripts/test_activity_graph.py
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Test SVG renderer
+        run: python3 -B -m unittest discover -s scripts -p 'test_*.py'
+      - name: Fetch contributions and generate SVG
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api graphql -f query='query {
+            user(login: "pedrol2b") {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks { contributionDays { date contributionCount } }
+                }
+              }
+            }
+          }' > "$RUNNER_TEMP/contributions.json"
+          python3 -B scripts/activity_graph.py "$RUNNER_TEMP/contributions.json" assets/activity-graph.svg
+      - name: Commit updated graph
+        run: |
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: update activity graph'
+          git push
