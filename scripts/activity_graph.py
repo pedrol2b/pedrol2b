@@ -27,21 +27,21 @@ def render(days, today):
         'viewBox="0 0 1000 320" role="img" aria-labelledby="title description">',
         '<title id="title">Pedro Bueno\'s GitHub Activity Graph</title>',
         f'<desc id="description">{sum(counts)} contributions from {start} to {today} (UTC).</desc>',
-        '<rect width="1000" height="320" fill="#131313"/>',
-        '<g fill="#f7f1ff" font-family="Verdana,Arial,sans-serif">',
+        '<rect width="1000" height="320" fill="#000000"/>',
+        '<g fill="#f5f5f7" font-family="Verdana,Arial,sans-serif">',
         '<text x="500" y="36" text-anchor="middle" font-size="20">Pedro Bueno\'s GitHub Activity Graph</text>',
         f'<text x="500" y="60" text-anchor="middle" font-size="12">{sum(counts)} contributions in the last 31 days</text>',
     ]
     for i in range(5):
         y = 250 - i * 40
         parts.extend([
-            f'<path d="M60 {y}H960" stroke="#f7f1ff" stroke-opacity="0.12"/>',
+            f'<path d="M60 {y}H960" stroke="#f5f5f7" stroke-opacity="0.12"/>',
             f'<text x="48" y="{y + 4}" text-anchor="end" font-size="11">{ceiling * i // 4}</text>',
         ])
     coordinates = " ".join(f"{x:.1f},{y:.1f}" for x, y in points)
-    parts.append(f'<polyline points="{coordinates}" fill="none" stroke="#fce566" stroke-width="2"/>')
+    parts.append(f'<polyline points="{coordinates}" fill="none" stroke="#0091ff" stroke-width="2"/>')
     for day, (x, y) in zip(window, points):
-        parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#fce566"><title>{day["date"]}: {day["contributionCount"]} contributions</title></circle>')
+        parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#0091ff"><title>{day["date"]}: {day["contributionCount"]} contributions</title></circle>')
     for i in range(0, 31, 5):
         date = dt.date.fromisoformat(window[i]["date"])
         parts.append(f'<text x="{points[i][0]}" y="275" text-anchor="middle" font-size="11">{date:%b %d}</text>')
